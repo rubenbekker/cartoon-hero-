@@ -1,0 +1,29 @@
+body{
+	background-color: deeppink;
+}
+<style type="text/css">
+h1{
+
+font-size: 30px;
+color:  teal;
+
+}
+
+H2 {
+color: darkred;
+font size : 20px
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase {
+color: navy;
+}
+
+</style>
